@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishjha14411&label=Profile%20views&color=0e75b6&style=flat" alt="ashishjha14411" /> </p>
 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ashishjha144.netlify.app/)
 
 - 📝 I regularly write articles on [Hashnode](https://ashishjha14.hashnode.dev/)
